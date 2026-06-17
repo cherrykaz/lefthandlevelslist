@@ -9,8 +9,8 @@ rules:
 5. you must have a handcam and cheat indicator!
 
 point system:
-beating/verifying a top 1 gives 450 points
-levels are dethroned by 25 points
-if the level is beaten with a coin route that is easier than the regular route, it makes the top 2 427 points.
-if the level is beaten with a coin route that is harder than the regular route, it makes the top 2 423 points.
-coin points can stack!
+1. beating/verifying a top 1 gives 450 points
+2. levels are dethroned by 25 points
+3. if the level is beaten with a coin route that is easier than the regular route, it makes the top 2 427 points.
+4. if the level is beaten with a coin route that is harder than the regular route, it makes the top 2 423 points.
+5. coin points can stack, even if theres both easy and hard routes
