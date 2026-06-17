@@ -1,5 +1,5 @@
-# lefthandlevelslist
-the Geometry Dash Left Hand Levels List!
+# Left Hand Levels List
+welcome to the Geometry Dash Left Hand Levels List!
 
 rules:
 1. the levels can only be beaten in 60-360FPS.
